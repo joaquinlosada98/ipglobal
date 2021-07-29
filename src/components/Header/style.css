@@ -1,0 +1,24 @@
+.Header { 
+    width: 100%;
+    padding: 10px 0;
+    position: fixed;
+    z-index: 100;
+    background-color: #6649b8;
+    color: whitesmoke;
+}
+  
+.HeaderGroup {
+    margin: 0 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.HeaderGroup img{
+    width: 65px;
+}
+
+.HeaderGroup h3{
+    font-weight: 600;
+    font-size: 20px;
+}
