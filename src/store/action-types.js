@@ -1,0 +1,4 @@
+export const ACT_SET_TITLE = "ACT_SET_TITLE";
+export const ACT_SET_MOVIES = "ACT_SET_MOVIES";
+export const ACT_SET_MYLIST = "ACT_SET_MYLIST";
+export const ACT_SET_SELECTED = "ACT_SET_SELECTED";

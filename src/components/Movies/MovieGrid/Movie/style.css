@@ -1,0 +1,21 @@
+.Movie{
+  align-content: center;
+  border: 1px solid #fcfcfc;        
+  border-radius: 6px;
+  margin: 0 10px 10px 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  background-color:  var(--bg-primary);
+}
+
+.Movie img{
+  height: 260px;
+  cursor: pointer;
+}
+
+.Movie p {
+  margin: 10px 0;
+  text-align: center;
+  color: #fcfcfc;
+}

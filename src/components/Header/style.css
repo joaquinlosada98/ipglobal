@@ -1,8 +1,6 @@
 .Header { 
     width: 100%;
     padding: 10px 0;
-    position: fixed;
-    z-index: 100;
     background-color: #6649b8;
     color: whitesmoke;
 }
@@ -18,7 +16,24 @@
     width: 65px;
 }
 
+.Links {
+    display: flex;
+    flex-wrap: 20px;
+}
+
+.Link {
+    text-decoration: none;
+}
+
 .HeaderGroup h3{
     font-weight: 600;
     font-size: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.HeaderGroup h3:hover{
+
+    color: white;
 }

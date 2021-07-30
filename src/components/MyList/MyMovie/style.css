@@ -1,0 +1,23 @@
+.MyMovie{
+    align-content: center;
+    border: 1px solid #fcfcfc;        
+    border-radius: 6px;
+    margin: 0 10px 10px 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color:  var(--bg-primary);
+  }
+  
+  .MyMovie img{
+    height: 260px;
+    cursor: pointer;
+  }
+  
+  .MyMovie p {
+
+    margin: 6px 0;
+    text-align: center;
+    color: #fcfcfc;
+  }
+  

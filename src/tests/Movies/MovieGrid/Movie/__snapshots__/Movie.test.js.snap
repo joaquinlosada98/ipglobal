@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <Movie/> debe de mostrar el componente correctamente 1`] = `
+<div
+  className="Movie animate__animated animate__fadeIn"
+>
+  <img
+    alt={true}
+    onClick={[Function]}
+    src="https://www.themoviedb.org/t/p/w220_and_h330_facetrue"
+  />
+  <p>
+    <Component />
+  </p>
+  <p>
+    Release: 
+    <Component />
+  </p>
+</div>
+`;
